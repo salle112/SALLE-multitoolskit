@@ -45,14 +45,12 @@ if userinput == "2":
 if userinput == "3":
 	os.system("sudo msfconsole")
 if userinput == "4":
-	print("in arbeit")
+	print("in progress")
 if userinput == "5":
 	os.system("sudo wireshark")
 if userinput == "6":
-	print("in arbeit")
+	print("in progress")
 if userinput == "7":
 	os.system("sudo autopsy")
 if userinput == "8":
-	print("in arbeit")
-if userinput > "8" or userinput < "0":
-	print("Ungültige Eingabe")
+	print("in progress")
